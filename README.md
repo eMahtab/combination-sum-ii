@@ -30,8 +30,8 @@ Output:
 ]
 ``` 
 
-Constraints:
+### Constraints:
 
-1 <= candidates.length <= 100
-1 <= candidates[i] <= 50
-1 <= target <= 30
+1. 1 <= candidates.length <= 100
+2. 1 <= candidates[i] <= 50
+3. 1 <= target <= 30
