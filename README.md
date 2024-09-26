@@ -37,7 +37,7 @@ Output:
 3. 1 <= target <= 30
 
 ## Approach :
-This problem is similar to Combination Sum problem, with couple of conditions, a number n can only be used x times, where x is number of times n appears in candidates array. And we should not add duplicate combinations. To solve this problem we sort the candidates array and then find the combinations, we skip the processing if we encounter same number which is not the starting of the group of same numbers.
+This problem is similar to [Combination Sum](https://github.com/eMahtab/combination-sum) problem, with couple of conditions, a number n can only be used x times, where x is number of times n appears in candidates array. And we should not add duplicate combinations. To solve this problem we sort the candidates array and then find the combinations, we skip the processing if we encounter same number which is not the starting of the group of same numbers.
 
 ## Implementation : 
 ```java
