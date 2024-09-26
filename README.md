@@ -30,6 +30,12 @@ Output:
 ]
 ```
 
+### Constraints:
+
+1. 1 <= candidates.length <= 100
+2. 1 <= candidates[i] <= 50
+3. 1 <= target <= 30
+
 ## Implementation : 
 ```java
 class Solution {
@@ -62,8 +68,3 @@ class Solution {
 }
 ```
 
-### Constraints:
-
-1. 1 <= candidates.length <= 100
-2. 1 <= candidates[i] <= 50
-3. 1 <= target <= 30
